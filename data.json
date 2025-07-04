@@ -1,0 +1,354 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple AirPods 2 Белый",
+      "description": "Беспроводные / Персональный / Вкладыши",
+      "price": 2599,
+      "category": "headphones"
+    },
+    {
+      "id": 2,
+      "name": "Apple AirPods PRO (2nd generation) Белый",
+      "description": "Беспроводные / Персональный / Вкладыши",
+      "price": 6599,
+      "category": "headphones"
+    },
+    {
+      "id": 3,
+      "name": "Marshall Major IV Черный",
+      "description": "Беспроводные / Персональный / Накладные",
+      "price": 2999,
+      "category": "headphones"
+    },
+    {
+      "id": 4,
+      "name": "Sven E-705BT Черный",
+      "description": "Беспроводные / Персональный / Вкладыши",
+      "price": 399,
+      "category": "headphones"
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy Buds Live Черный",
+      "description": "Беспроводные / Персональный / Вкладыши",
+      "price": 3099,
+      "category": "headphones"
+    },
+    {
+      "id": 6,
+      "name": "Apple AirPods PRO (2nd generation) MagSafe",
+      "description": "Беспроводные / Персональный / Вкладыши",
+      "price": 7799,
+      "category": "headphones"
+    },
+    {
+      "id": 7,
+      "name": "Apple AirPods Max Серебряный",
+      "description": "Беспроводные / Персональный / Полноразмерные",
+      "price": 41999,
+      "category": "headphones"
+    },
+    {
+      "id": 8,
+      "name": "Xiaomi Redmi Buds 3 PRO Черный",
+      "description": "Беспроводные / Персональный / Вкладыши",
+      "price": 2499,
+      "category": "headphones"
+    },
+    {
+      "id": 9,
+      "name": "Xiaomi Mi Earphones 2 Basic Белый",
+      "description": "Беспроводные / Персональный / Вкладыши",
+      "price": 999,
+      "category": "headphones"
+    },
+    {
+      "id": 10,
+      "name": "JBL T500 Черный",
+      "description": "Проводные / Персональный / Накладные",
+      "price": 1999,
+      "category": "headphones"
+    },
+    {
+      "id": 11,
+      "name": "Apple iPhone 12 128 ГБ Зеленый",
+      "description": "6.1\" | 12 Мп | 4 ГБ | Single SIM",
+      "price": 9699,
+      "category": "smartphones"
+    },
+    {
+      "id": 12,
+      "name": "Samsung Galaxy S21 FE 128 ГБ Серый",
+      "description": "6.4\" | 12 Мп | 6 ГБ | Dual SIM",
+      "price": 12499,
+      "category": "smartphones"
+    },
+    {
+      "id": 13,
+      "name": "Apple iPhone 13 128 ГБ Midnight",
+      "description": "6.1\" | 12 Мп | 4 ГБ | Single SIM",
+      "price": 9999,
+      "category": "smartphones"
+    },
+    {
+      "id": 14,
+      "name": "Apple iPhone 13 128 ГБ Starlight",
+      "description": "6.1\" | 12 Мп | 4 ГБ | Single SIM",
+      "price": 9999,
+      "category": "smartphones"
+    },
+    {
+      "id": 15,
+      "name": "Apple iPhone 12 128 ГБ Черный",
+      "description": "6.1\" | 12 Мп | 4 ГБ | Single SIM",
+      "price": 9699,
+      "category": "smartphones"
+    },
+    {
+      "id": 16,
+      "name": "Xiaomi Redmi 9C 32 ГБ Серый",
+      "description": "6.53\" | 13 Мп | 2 ГБ | Dual SIM",
+      "price": 2999,
+      "category": "smartphones"
+    },
+    {
+      "id": 17,
+      "name": "Apple iPhone 14 128 ГБ Midnight",
+      "description": "6.1\" | 12 Мп | 6 ГБ | Single SIM",
+      "price": 11999,
+      "category": "smartphones"
+    },
+    {
+      "id": 18,
+      "name": "Apple iPhone 15 128 ГБ Черный",
+      "description": "6.1\" | 48 Мп | 6 ГБ | Single SIM",
+      "price": 14299,
+      "category": "smartphones"
+    },
+    {
+      "id": 19,
+      "name": "Apple iPhone 15 Pro Max 256 ГБ Натуральный Титан",
+      "description": "6.7\" | 48 Мп | 8 ГБ | Single SIM",
+      "price": 27999,
+      "category": "smartphones"
+    },
+    {
+      "id": 20,
+      "name": "Apple iPhone 14 128 ГБ Синий",
+      "description": "6.1\" | 12 Мп | 6 ГБ | Single SIM",
+      "price": 11999,
+      "category": "smartphones"
+    },
+    {
+      "id": 21,
+      "name": "Amazfit GTR 2 Черный",
+      "description": "1.39\" | Нержавеющая сталь",
+      "price": 3599,
+      "category": "smartwatches"
+    },
+    {
+      "id": 22,
+      "name": "Samsung Galaxy Watch4 Classic Серебристый",
+      "description": "1.4\" | 46 мм | Металл | Силикон | SM-R880NZSACIS",
+      "price": 7699,
+      "category": "smartwatches"
+    },
+    {
+      "id": 23,
+      "name": "Apple Watch SE 2022 Midnight",
+      "description": "1.40 мм | Алюминий | Силикон | MNJ73UL/A",
+      "price": 6499,
+      "category": "smartwatches"
+    },
+    {
+      "id": 24,
+      "name": "Amazfit Bip U PRO Зеленый",
+      "description": "1.43\" | Polycarbonate | Силикон",
+      "price": 1499,
+      "category": "smartwatches"
+    },
+    {
+      "id": 25,
+      "name": "Kieslect KR Smart Calling Черный",
+      "description": "1.32\" | 45.7 мм | Металл | Силикон",
+      "price": 999,
+      "category": "smartwatches"
+    },
+    {
+      "id": 26,
+      "name": "Huawei Watch 3 Черный",
+      "description": "1.43\" | Нержавеющая сталь | Керамика | Фторэластомер | галерея TIP",
+      "price": 8499,
+      "category": "smartwatches"
+    },
+    {
+      "id": 27,
+      "name": "Samsung Galaxy Watch4 Classic Серебряный",
+      "description": "1.2\" | 42 мм | Металл | Силикон | SM-R880NZSACIS",
+      "price": 5999,
+      "category": "smartwatches"
+    },
+    {
+      "id": 28,
+      "name": "Amazfit GTS 4 Черный",
+      "description": "1.75\" | Алюминиевый сплав | Фторэластомер | A2168-IR",
+      "price": 4399,
+      "category": "smartwatches"
+    },
+    {
+      "id": 29,
+      "name": "Amazfit Bip U PRO Черный",
+      "description": "1.43\" | Пластик",
+      "price": 1499,
+      "category": "smartwatches"
+    },
+    {
+      "id": 30,
+      "name": "Amazfit Bip U PRO Розовый",
+      "description": "1.43\" | Polycarbonate | Силикон",
+      "price": 1499,
+      "category": "smartwatches"
+    },
+    {
+      "id": 31,
+      "name": "Apple MacBook Air 13 2020 Космос Серый",
+      "description": "13.3\" | 8 ГБ | 256 ГБ | Apple M1 (C8 ОЗУ) | VGA Встроенная",
+      "price": 14290,
+      "category": "laptops"
+    },
+    {
+      "id": 32,
+      "name": "Lenovo IdeaPad Gaming 3 ACH6-8ПГК Тень",
+      "description": "15.6\" | 16 ГБ | 512 ГБ | AMD Ryzen 5 5600H | GeForce RTX 2050 4 ГБ",
+      "price": 11990,
+      "category": "laptops"
+    },
+    {
+      "id": 33,
+      "name": "Lenovo IdeaPad Slim 3 16IAH8-0MB Arctic Серый",
+      "description": "16\" | 16 ГБ | 1 ТБ | Intel Core i5 12450H | VGA Встроенная",
+      "price": 11490,
+      "category": "laptops"
+    },
+    {
+      "id": 34,
+      "name": "Lenovo IdeaPad Slim 3 15AMN8 Arctic Серый",
+      "description": "15.6\" | 8 ГБ | 512 ГБ | AMD Ryzen 5 7520U | VGA Встроенная",
+      "price": 8490,
+      "category": "laptops"
+    },
+    {
+      "id": 35,
+      "name": "Asus ROG Strix G18 G814JIR-N6055ER Eclipse Черный",
+      "description": "18\" | 32 ГБ | 1 ТБ | Intel Core i9 14900HX | GeForce RTX 4070 8 ГБ",
+      "price": 40990,
+      "category": "laptops"
+    },
+    {
+      "id": 36,
+      "name": "Asus Vivobook Go 15 E1504FA-BQ321 Микс",
+      "description": "15.6\" | 16 ГБ | 512 ГБ | AMD Ryzen 5 7520U | VGA Встроенная",
+      "price": 8990,
+      "category": "laptops"
+    },
+    {
+      "id": 37,
+      "name": "Asus Vivobook Go 15 E1504FA-BQ210 Микс Черный",
+      "description": "15.6\" | 8 ГБ | 512 ГБ | AMD Ryzen 3 7320U | VGA Встроенная",
+      "price": 7990,
+      "category": "laptops"
+    },
+    {
+      "id": 38,
+      "name": "Lenovo IdeaPad Slim 3 16IAH8 Arctic Серый",
+      "description": "16\" | 16 ГБ | 1 ТБ | Intel Core i5 12450H | VGA Встроенная",
+      "price": 10490,
+      "category": "laptops"
+    },
+    {
+      "id": 39,
+      "name": "Asus Vivobook Go 15 E1504FA-BQ090 Mixed",
+      "description": "15.6\" | 8 ГБ | 512 ГБ | AMD Ryzen 5 7520U | VGA Встроенная",
+      "price": 8290,
+      "category": "laptops"
+    },
+    {
+      "id": 40,
+      "name": "Lenovo IdeaPad Slim 3 16IAM8 Arctic Серый",
+      "description": "15.6\" | 8 ГБ | 512 ГБ | AMD Ryzen 3 7320U | VGA Встроенная",
+      "price": 7490,
+      "category": "laptops"
+    },
+    {
+      "id": 41,
+      "name": "Робот пылесос IMILAB V1 Белый",
+      "description": "Сухая, 65 дБ",
+      "price": 5999,
+      "category": "robot_vacuums"
+    },
+    {
+      "id": 42,
+      "name": "Робот пылесос Xiaomi Vacuum S10 Белый",
+      "description": "Влажная, 20 дБ",
+      "price": 3299,
+      "category": "robot_vacuums"
+    },
+    {
+      "id": 43,
+      "name": "Робот пылесос Samsung Jet Bot Белый",
+      "description": "Сухая, 60 Вт, 76 дБ",
+      "price": 5999,
+      "category": "robot_vacuums"
+    },
+    {
+      "id": 44,
+      "name": "Робот пылесос Xiaomi X20 Plus Белый",
+      "description": "Влажная, 75 Вт, 85 дБ",
+      "price": 8999,
+      "category": "robot_vacuums"
+    },
+    {
+      "id": 45,
+      "name": "Робот пылесос Samsung VR50T9573SW/EV Jet Bot AI+",
+      "description": "Сухая, 170 Вт, 74 дБ",
+      "price": 13999,
+      "category": "robot_vacuums"
+    },
+    {
+      "id": 46,
+      "name": "Робот пылесос Xiaomi Vacuum S10 Plus Белый",
+      "description": "Влажная, 72 дБ",
+      "price": 5499,
+      "category": "robot_vacuums"
+    },
+    {
+      "id": 47,
+      "name": "Робот пылесос Xiaomi Vacuum S20 Белый",
+      "description": "Влажная, 45 Вт, 38 дБ",
+      "price": 2999,
+      "category": "robot_vacuums"
+    },
+    {
+      "id": 48,
+      "name": "Робот пылесос Roborock S8 Max V Ultra Черный",
+      "description": "Влажная, 60 Вт, 67 дБ",
+      "price": 22899,
+      "category": "robot_vacuums"
+    },
+    {
+      "id": 49,
+      "name": "Робот пылесос Xiaomi S20+ Белый",
+      "description": "Влажная, 55 Вт, 60 дБ",
+      "price": 5499,
+      "category": "robot_vacuums"
+    },
+    {
+      "id": 50,
+      "name": "Робот пылесос Roborock S8 Max V Ultra Белый",
+      "description": "Влажная, 60 Вт, 67 дБ",
+      "price": 22899,
+      "category": "robot_vacuums"
+    }
+  ]
+}
